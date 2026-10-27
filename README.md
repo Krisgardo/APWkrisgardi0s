@@ -1,2 +1,2 @@
 # APWkrisgardi0s
-Aplicaciones Web.
+Kristian García | SMRº2 | Aplicaciones web.
